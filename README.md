@@ -16,13 +16,6 @@ Built this **Responsive** Homepage **without using flexbox or grid** only by usi
 <br>
 <br>
 
-## 📌 Overview
-
-<br>
-
-![Screenshot](./preview.png) "Template Screenshot")
-
-
 
 
 ## 📌 What I Learn
@@ -38,3 +31,12 @@ Built this **Responsive** Homepage **without using flexbox or grid** only by usi
 
 
 ## Time taken to complete this project was less than **1 hr**.
+<br>
+
+## 📌 Overview
+
+<br>
+
+![Screenshot](./preview.png) "Template Screenshot")
+
+
